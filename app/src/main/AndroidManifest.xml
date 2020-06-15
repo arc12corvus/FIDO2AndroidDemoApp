@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:dist="http://schemas.android.com/apk/distribution"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.nicopun.fido2_simple_demo">
-    <!--uses-permission android:name="android.permission.BLUETOOTH"/-->
-    <!--uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/-->
+
+
     <dist:module dist:instant="true" />
 
     <application
