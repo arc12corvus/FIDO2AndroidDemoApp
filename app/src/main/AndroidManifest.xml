@@ -4,7 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.nicopun.fido2_simple_demo">
 
-
     <dist:module dist:instant="true" />
 
     <application
